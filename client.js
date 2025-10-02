@@ -1,4 +1,5 @@
 /* global TrelloPowerUp */
+console.log("Power-Up client.js loaded");   // <--- add this as the first line
 const tpu = TrelloPowerUp;
 
 // Format seconds as "Hh Mm"
@@ -51,3 +52,4 @@ tpu.initialize({
     return [];
   }
 });
+
