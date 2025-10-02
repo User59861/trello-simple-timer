@@ -5,7 +5,8 @@
   "capabilities": ["card-buttons", "card-badges"],
   "connectors": {
     "iframe": {
-      "url": "https://YOUR-USERNAME.github.io/YOUR-REPO/index.html"
+      "url": "https://User59861.github.io/trello-simple-timer/index.html"
     }
   }
 }
+
