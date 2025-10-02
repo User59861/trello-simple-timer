@@ -1,0 +1,12 @@
+{
+  "name": "Simple Card Timer",
+  "description": "Start/Stop time tracker per card with a note on stop",
+  "author": "You",
+  "capabilities": ["card-buttons", "card-badges"],
+  "connectors": {
+    "iframe": {
+      "url": "https://YOUR-USERNAME.github.io/YOUR-REPO/index.html"
+    }
+  }
+}
+f
