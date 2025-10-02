@@ -5,10 +5,11 @@
   "capabilities": ["board-buttons", "card-buttons", "card-badges"],
   "connectors": {
     "iframe": {
-      "url": "https://User59861.github.io/trello-simple-timer/index.html?v=2"
+      "url": "https://User59861.github.io/trello-simple-timer/index.html?v=3"
     }
   }
 }
+
 
 
 
