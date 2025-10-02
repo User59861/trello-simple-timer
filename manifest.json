@@ -2,11 +2,12 @@
   "name": "Simple Card Timer",
   "description": "Start/Stop time tracker per card with a note on stop",
   "author": "You",
-  "capabilities": ["card-buttons", "card-badges"],
+  "capabilities": ["board-buttons", "card-buttons", "card-badges"],
   "connectors": {
     "iframe": {
       "url": "https://User59861.github.io/trello-simple-timer/index.html"
     }
   }
 }
+
 
